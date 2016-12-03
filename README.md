@@ -1,5 +1,6 @@
 
 # NLP_CIE
+# NLP - Cluase based Open Inforamtion Extraction
 This Repository contains code regarding NLP Project on clause based information extraction.
 It consists of two main classes ClauseIE class and evaluation class.
 ClauseIE class takes input from three sources then generates clauses and writes to different files.
